@@ -1,0 +1,6 @@
+{
+  "name": "Blackjack Game Simulator",
+  "description": "Interactive Blackjack Game Simulator featuring standard casino rules, dynamic Ace evaluation, strategy matrix, and real-time bankroll tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
