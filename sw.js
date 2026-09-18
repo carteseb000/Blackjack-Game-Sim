@@ -2,7 +2,7 @@ const version = '0.1'
 const assets = [
 	'index.html',
 	'sw.js',
-	'blackjack.webmanifest'
+	'manifest.webmanifest'
 ]
 
 self.addEventListener('install', function(event) {
