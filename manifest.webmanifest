@@ -1,0 +1,18 @@
+{
+  "background_color": "#1a1c2c",
+  "theme_color": "#f4f4f4",
+  "description": "",
+  "display": "standalone",
+  "icons": [
+	
+  ],
+  "name": "Blackjack Game Simulator",
+  "short_name": "bj",
+  "start_url": ".",
+  "orientation": "any",
+  "lang": "en",
+  "dir": "auto",
+  "categories": [
+    "apps"
+  ]
+}
